@@ -1,7 +1,7 @@
 # install beego
 # version 1.0  
   
-FROM 127.0.0.1:5000/centos:latest  
+FROM centos:latest  
 MAINTAINER ivonlee "ldtrain@gmail.com"  
 
 ENV GOPATH /data/golang
